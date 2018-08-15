@@ -1849,7 +1849,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d4ffff;
+  background: #62490b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2581,7 +2581,7 @@ hr {
   right: -100%;
 }
 .site-subtitle {
-  display: none;
+  display: block;
 }
 .site-nav-toggle {
   position: static;
